@@ -29,5 +29,5 @@ Sales transaction dataset containing order details, price and region.
 
 
 
-![Lakehouse](Lakehouse Overview.png)
+![Lakehouse](screenshots/Lakehouse Overview.png)
 
