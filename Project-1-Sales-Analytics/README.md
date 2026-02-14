@@ -27,7 +27,16 @@ Sales transaction dataset containing order details, price and region.
 
 # Screenshots
 
-
+1. Created Lakehouse
 
 ![Lakehouse](screenshots/lakehouse-overview.png)
+
+2. Lakehouse Table
+
+![Lakehouse](screenshots/lakehouse-table.png)
+
+3. SQL Analytics Endpoint
+
+![Lakehouse](screenshots/sql-analytics-endpoint.png)
+
 
