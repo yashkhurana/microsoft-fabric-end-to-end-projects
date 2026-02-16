@@ -39,4 +39,21 @@ Sales transaction dataset containing order details, price and region.
 
 ![Lakehouse](screenshots/sql-analytics-endpoint.png)
 
+4. Data Transformation ( Notebooks )
+   - Removed invalid quantity
+   - Removed null prices
+   - Added revenue column
+
+5. Raw data preview
+
+   - ![Raw](screenshots/raw-data-preview.png)
+  
+6. Added revenue column
+
+   - ![Raw](screenshots/added_revenue_column.png)
+  
+7. Cleaned Data Preview
+
+   - ![Raw](screenshots/cleaned-data-preview.png)
+
 
