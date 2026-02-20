@@ -66,7 +66,7 @@ Sales transaction dataset containing order details, price and region.
   
    ### Spark Aggregation
 
-   - ![Spark](screenshots/Sales-clean.png)
+   - ![Spark](screenshots/Sales_clean.png)
   
    - 
 
