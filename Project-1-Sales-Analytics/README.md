@@ -68,7 +68,8 @@ Sales transaction dataset containing order details, price and region.
 
    - ![Spark](screenshots/spark-groupby-output.png)
   
-   - 
+   - ![Spark](screenshots/sql-query-result.png)
+
 
 
 
