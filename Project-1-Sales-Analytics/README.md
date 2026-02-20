@@ -58,7 +58,7 @@ Sales transaction dataset containing order details, price and region.
   
 8. Sales_Clean Table
 
-   - ![Raw](screenshots/Sales-clean.png)
+   - ![Raw](screenshots/Sales_clean.png)
 
 9. Gold Layer ( Aggregated Sales Summary )
 
@@ -66,7 +66,7 @@ Sales transaction dataset containing order details, price and region.
   
    ### Spark Aggregation
 
-   - ![Spark](screenshots/Sales_clean.png)
+   - ![Spark](screenshots/spark-groupby-output.png)
   
    - 
 
