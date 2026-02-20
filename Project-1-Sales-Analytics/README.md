@@ -55,7 +55,20 @@ Sales transaction dataset containing order details, price and region.
 7. Cleaned Data Preview
 
    - ![Raw](screenshots/cleaned-data-preview.png)
+  
+8. Sales_Clean Table
 
+   - ![Raw](screenshots/Sales-clean.png)
+
+9. Gold Layer ( Aggregated Sales Summary )
+
+   - Created region wise revenue summary using Pyspark groupby and aggregation.
+  
+   ### Spark Aggregation
+
+   - ![Spark](screenshots/Sales-clean.png)
+  
+   - 
 
 
 
