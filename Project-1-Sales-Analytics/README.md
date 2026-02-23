@@ -74,7 +74,27 @@ Sales transaction dataset containing order details, price and region.
 
 10. Read Sales Clean Table
 
-   - ![Spark](screenshots/read_sales_clean_table.png) 
+   - ![Spark](screenshots/read_sales_clean_table.png)
+
+11. Created Product Wise Revenue Table
+
+    - ![Spark](screenshots/product_revenue.png)
+   
+12. Created Categort Wise Revenue Table
+
+    - ![Spark](screenshots/catgory_revenue.png)
+
+13. Created Monthly Revenue Table
+
+    - ![Spark](screenshots/Monthly_revenue.png)
+
+14. Created Category Profit Table
+
+    - ![Spark](screenshots/category_profit.png)
+
+15. Save Category Profit Table
+
+    - ![Spark](screenshots/save_category_profit.png)
 
 
 
