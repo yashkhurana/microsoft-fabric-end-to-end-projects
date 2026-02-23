@@ -72,6 +72,9 @@ Sales transaction dataset containing order details, price and region.
   
    - ![Spark](screenshots/sql-query-result.png)
 
+10. Read Sales Clean Table
+
+   - ![Spark](screenshots/read_sales_clean_table.png) 
 
 
 
