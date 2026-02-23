@@ -82,7 +82,7 @@ Sales transaction dataset containing order details, price and region.
    
 12. Created Categort Wise Revenue Table
 
-    - ![Spark](screenshots/catgory_revenue.png)
+    - ![Spark](screenshots/category_revenue.png)
 
 13. Created Monthly Revenue Table
 
