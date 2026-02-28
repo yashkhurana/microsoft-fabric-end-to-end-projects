@@ -98,4 +98,31 @@ Sales transaction dataset containing order details, price and region.
 
 
 
+# Now we will create Gold Layer ( Star Schema ) with the help of Spark SQL in notebook
 
+We will create the following tables in gold layer:-
+1) dim_date
+2) dim_product
+3) dim_region
+4) fact_sales
+
+We will follow the below steps:-
+
+1) dim_product table
+
+   - ![Spark](screenshots/dim_product.png)
+
+2) dim_region
+
+    - ![Spark](screenshots/dim_region.png)
+  
+3) dim_date
+
+    - ![Spark](screenshots/dim_date.png)
+  
+4) fact_sales
+
+   - ![Spark](screenshots/fact_sales.png)
+
+
+  
