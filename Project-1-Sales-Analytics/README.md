@@ -123,6 +123,12 @@ We will follow the below steps:-
 4) fact_sales
 
    - ![Spark](screenshots/fact_sales.png)
+  
+# Creating official gold tables
+
+1) - ![Spark](screenshots/gold_category_and_product.png)
+
+2) - ![Spark](screenshots/gold_monthly.png)
 
 
   
