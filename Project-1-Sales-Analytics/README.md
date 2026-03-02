@@ -130,7 +130,25 @@ We will follow the below steps:-
 
 2) - ![Spark](screenshots/gold_monthly.png)
   
-3) <img width="1053" height="612" alt="image" src="https://github.com/user-attachments/assets/9024dc45-a963-4d45-a49d-845b7e497273" />
+
+
+-- Now in our fact table, for each row, there is one product, one order id, one order date and region
+-- Currently we are using natural keys like product_id, order_date and region
+
+In industries, surrogate keys are used in dimension tables
+
+
+# we will introduce surrogate keys in dimension table dim_product
+
+
+-- ![Spark](screenshots/dim_product_surrogate.png)
+
+
+-- ![Spark](screenshots/fact_sales_surrogate.png)
+
+
+
+
 
 
 
