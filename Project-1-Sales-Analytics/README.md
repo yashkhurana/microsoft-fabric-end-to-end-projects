@@ -129,6 +129,9 @@ We will follow the below steps:-
 1) - ![Spark](screenshots/gold_category_and_product.png)
 
 2) - ![Spark](screenshots/gold_monthly.png)
+  
+3) <img width="1053" height="612" alt="image" src="https://github.com/user-attachments/assets/9024dc45-a963-4d45-a49d-845b7e497273" />
+
 
 
   
