@@ -147,6 +147,12 @@ In industries, surrogate keys are used in dimension tables
 -- ![Spark](screenshots/fact_sales_surrogate.png)
 
 
+# To speed up the performance of fact_sales table , suppose if it will have 20 M rows, we will partition the table by order_date
+
+-- ![Spark](screenshots/partition_fact_sales.png)
+
+
+
 
 
 
