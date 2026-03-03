@@ -154,6 +154,21 @@ In industries, surrogate keys are used in dimension tables
 
 
 
+Till now we have assumed that our dimension data is static i.e category of products will not change, region value will not change.
+But in real world, product category will change, region will merge, customer address changes, price will change.
+
+This problem is resolved by **Slowly Changing Dimensions**
+
+**Slowly changing dimensions**
+Slowly changing dimension are those dimension data that changes with respect to time.
+
+For ex:- If a product P1 was assigned Electronics category in 2024, but in 2025 it was changed to Mobile devices category.
+Now the question if we want to preserve the historical data or overwrite it. This can be solved by SCD.
+
+# There are mainly 3 types of SCD
+
+1) SCD Type 1
+
 
 
 
